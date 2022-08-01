@@ -1,6 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">An eager new developer from Omaha, Nebraska</h3>
-- I am currently working on **Building my Portfolio**
 
 - 💬 Ask me about **JavaScript, React, HTML, CSS**
 
